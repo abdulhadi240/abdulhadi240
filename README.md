@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Hadi!;" />
 </h1>
 
-<h3 align="center">A passionate Jamstack developer from Pakistan</h3>
+<h3 align="center">Web Developer | Harnessing AI for innovtive solutions</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Nextjs**
+ 🔭 I’m currently working on **Nextjs , Generative AI , Python**
  
- 🌱 I’m currently learning **Generative AI , Zuztang , Nextjs**
+ 🌱 I’m currently learning **Generative AI , Python , Nextjs**
 
- 💬 Ask me about **Nextjs, React, SQl Server, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Nextjs, React, Generative AI , Severless Database... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
 
  
